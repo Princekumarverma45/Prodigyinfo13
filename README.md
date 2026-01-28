@@ -1,1 +1,1 @@
-this Project is Tic-Tac-Toc.
+This is Tic-Tac-Toc Project.
